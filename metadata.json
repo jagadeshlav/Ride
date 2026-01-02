@@ -1,0 +1,7 @@
+{
+  "name": "RideSync",
+  "description": "A real-time group tracking application for bike trips. Stay connected with your riding group, view everyone's live location on a shared map, and get AI-powered route suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
